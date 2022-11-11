@@ -1,3 +1,5 @@
+import javax.sound.sampled.SourceDataLine;
+
 public class mostarda4 {
     public static void main(String[] args){
 
@@ -14,12 +16,17 @@ public class mostarda4 {
         boolean stBool = true;                      // inizializzo boolean
         boolean ndBool = false;
 
-        if(ndBool != stBool){                       // condizione per la quale rendo ndBoo da FALSE a TRUE e stampa EVVIVA
+        if(ndBool != stBool){                       // mio metodo uffcondizione per la quale rendo ndBoo da FALSE a TRUE e stampa EVVIVA
         ndBool = true;
         System.out.println(somma + " Evviva");
         }
         else                                        // se non funziona stampa "hai sbagliato"
         System.out.println("hai sbagliato bruh ");
+
+        /*
+        System.out.println(ndBool != stBool);       // soluzione Mirko
+        System.out.println(somma + " Evviva");
+        */
     }
 
 
