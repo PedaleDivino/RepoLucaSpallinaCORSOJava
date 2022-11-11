@@ -1,17 +1,17 @@
 public class mostarda5 {
     public static void main(String[] args){
         
-        String a = "ciao";
-        boolean b = true;
+        String a = "ciao";          // inizializzo variabili
+        boolean b = true;           // fine inizializzazione variabili
 
-        if(b == true){
+        if(b == true){              // blocco if se b è vero allora...
 
-            System.out.println(a);
-
+            System.out.println(a);  // sout ciao
+                                    // fine IF
         }
-        else(){
-            System.out.println("hai sbagliato ");
-        }
+        else(){                     // altrimenti
+            System.out.println("hai sbagliato ");   // sout "hai sbagliato"
+        }                           // fine ELSE
 
     }
 }
