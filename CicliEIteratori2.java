@@ -39,7 +39,7 @@ public class CicliEIteratori2 {
 
 //________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-    public void Aggiungi(){             // APERTURA METODO AGGIUNGI
+    public void Aggiungi(double newX, double newY, double newZ){             // APERTURA METODO AGGIUNGI
 
         System.out.println("quale numero vuoi incrementare?");      // inizio richiesta
         System.out.println(" 1) 11");
