@@ -8,4 +8,4 @@ aggiunta di mostarda6 1.0 FINITO  Luca Spallina 11/11/2022  2.24 P.M
 
 aggiunta di mostarda7 1.0 FINITO  Luca Spallina 11/11/2022  4.33 P.M
 
-aggiunta di CicliEIteratori 1.0 FINITO (CON ERRORI di richiamo dei metodi nel main) Luca Spallina 14/11/2022 5:58 P.M
+aggiunta di CicliEIteratori2 1.1 FINITO (CON ERRORI di richiamo dei metodi nel main) Luca Spallina 14/11/2022 6:00 P.M
